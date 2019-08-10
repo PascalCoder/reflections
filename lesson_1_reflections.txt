@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+--> The differences between the two files are displayed for you to see.
+	The length of the two files will show you that there is a difference between the files.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Changes made at some points/ given dates are accessible and thus making
+	bug control easier.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: You get to chose the appropriate time to save/create a version
+		  You know the reasons behind you making a new commit
+	Cons: The changes at the time of the commit might be too small or too big
+		  You might need to make a lot of commit in a short amount of time
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git knows that files can be related thus allowing multiple files saved in
+	one commit while version control systems like Google Docs do take this into
+	account.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    While git log can be used to see the previous commits, git diff allows you
+	to see the changes that were made between the two commits (added lines/codes
+	and removed lines/codes)
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Since we know how to go back to previous versions we can somehow check
+	older versions and find any introduced errors/bugs.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I will use git to build Android apps and websites. Git will help me save
+	my work, I will be able to easly detect any bug that might be introduced 
+	during new builds and merges.

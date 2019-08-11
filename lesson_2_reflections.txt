@@ -37,3 +37,4 @@ manually?
 	Automatic merging can leave out changes that you would like to keep.
 	Doing merge manually altough it can teadious allows you to check your code
 	and make some changes before merging.
+

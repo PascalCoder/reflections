@@ -12,6 +12,10 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	The staging area can show you files that have been added but not yet committed.
+	By doing git status, you can check the files that are in the staging area.
+	If a file does not relate to others, it can be removed from the staging area
+	by doing git reset <file_name>
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?

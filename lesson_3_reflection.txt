@@ -19,7 +19,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Remote branches can be accessed and modified by someone else. So having
+	a local copy of that branch helps see changes that have been made if the
+	remote and the copy in the local repo do not match.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
